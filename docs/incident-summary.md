@@ -1,7 +1,5 @@
 # The Doctronic Incident (January 2026)
 
-# The Doctronic Incident (January 2026)
-
 In January 2026, an AI system called Doctronic accepted a fabricated regulatory
 bulletin and generated a dangerously incorrect prescription dosage recommendation.
 The system had no input validation, no audit trail, and no safety checks in place
