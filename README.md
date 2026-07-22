@@ -7,8 +7,8 @@
 ```
 3. **Set up your environment:**
 ```bash
-   conda create -n doctronic-course python=3.11
-   conda activate doctronic-course
+   conda create -n bma5278 python=3.12
+   conda activate bma5278
    pip install -r requirements.txt
 ```
 4. **Open `Day1_Exercises.ipynb`** in VS Code — this is where you'll do all of today's work.
